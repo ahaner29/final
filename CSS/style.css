@@ -1,0 +1,137 @@
+#bannerimage {
+	width:100%;
+	background-image: url(file:///C:/Users/ahaner21/Downloads/Website%20banner.jpg);
+	height:300px;
+	background-position: center;
+	margin: 0px;
+	border: 0px;
+}
+
+nav a {
+	display: inline-block;
+	margin: 10px;
+	padding: 10px;
+	border: 2px outset #CCCCCC;
+	background-color: #CCCCCC;
+	text-decoration: none;
+	color: #000000;
+	text-align: center;
+	background-position: center;
+}
+
+body {
+	background-color: #3CB371;
+	text-align: center;
+}
+
+p {
+ font-family: 'Quattrocento Sans', sans-serif; 
+}
+
+h1 {
+	font-family: 'Quattrocento Sans', sans-serif;
+}
+
+#bannerimage2 {
+	width: 100%;
+	background-image: url(file:///U:/Webdesign/Final%20project/aboutbanner.jpg);
+	height: 300px;
+	background-position: center;
+	margin: 0px;
+	border: 0px;
+}
+
+#banner3 {
+	width:100%;
+	background-image: url(file:///U:/Webdesign/Final%20project/learnmore.jpg);
+	height:300px;
+	background-position: center;
+	margin: 0px;
+	border: 0px;
+}
+
+#banner4 {
+	width:100%;
+	background-image: url(file:///U:/Webdesign/Final%20project/whatyoucando.jpg);
+	height:300px;
+	background-position: center;
+	margin: 0px;
+	border: 0px;
+}
+
+#banner5 {
+	width:100%;
+	background-image: url(file:///U:/Webdesign/Final%20project/workscited.jpg);
+	height:300px;
+	background-position: center;
+	margin: 0px;
+	border: 0px;
+}
+
+ul {
+	text-align: center;
+	display: inline-block;
+}
+
+#about img{
+	
+	width:50px;
+}
+
+#more {
+	color: #01441C;
+}
+
+#thought img{
+	width:50px;
+	vertical-align: middle;
+}
+
+
+h1 > img{
+	vertical-align: middle;
+}
+
+#unorder {
+	font-size: 25px;
+	text-align: left;
+	
+}
+
+#Know img{
+	width:40px;
+	vertical-align: middle;
+	text-align: center;
+}
+
+
+table {
+	text-align: center;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+table tr:nth-child(odd) {
+  background-color: lightgreen;
+}
+
+ol {
+	text-align: center;
+	display: inline-block;
+}
+
+#unorder > ul {
+	text-align: left;
+}
+
+#help img {
+	width: 40px;
+}
+
+
+
+
+	
+	
